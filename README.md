@@ -36,7 +36,6 @@ $pimple['myPlugin'] = function(){
 };
 ```
 
-
 ## Usage
 Finally to set it up, grab it from pimple and call the init method with the current file, which should be the pluginsname.php file in the root of the plugin folder:
   ```

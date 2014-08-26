@@ -1,0 +1,11 @@
+{
+    "name": "flexpress/component-plugin",
+    "description": "Base plugin for WordPress plugin creation",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FlexPress\\Plugins\\": "src/FlexPress/Plugins/"
+        }
+    }
+
+}
